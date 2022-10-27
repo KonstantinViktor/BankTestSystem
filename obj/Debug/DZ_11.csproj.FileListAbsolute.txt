@@ -1,0 +1,7 @@
+C:\Users\kirill\source\repos\DZ_11\obj\Debug\DZ_11.csproj.AssemblyReference.cache
+C:\Users\kirill\source\repos\DZ_11\obj\Debug\DZ_11.csproj.CoreCompileInputs.cache
+C:\Users\kirill\source\repos\DZ_11\bin\Debug\DZ_11.exe.config
+C:\Users\kirill\source\repos\DZ_11\bin\Debug\DZ_11.exe
+C:\Users\kirill\source\repos\DZ_11\bin\Debug\DZ_11.pdb
+C:\Users\kirill\source\repos\DZ_11\obj\Debug\DZ_11.exe
+C:\Users\kirill\source\repos\DZ_11\obj\Debug\DZ_11.pdb
